@@ -1,8 +1,11 @@
 # depslib dependency file v1.0
-1641358118 source:c:\users\admin\desktop\utn\tecnicatura programacion\labo 1\revenge\revenge\main.cpp
+1645505412 source:c:\users\admin\desktop\utn\tecnicatura programacion\labo 1\revenge\revenge\main.cpp
 	<iostream>
-	<time.h>
+	<ctime>
 	<cstdlib>
+	<string>
+	"funciones.h"
+	"menu.h"
 	"rlutil.h"
 
 1641351013 c:\users\admin\desktop\utn\tecnicatura programacion\labo 1\revenge\revenge\rlutil.h
@@ -18,4 +21,30 @@
 	<sys/ioctl.h>
 	<sys/types.h>
 	<sys/time.h>
+
+1645826907 c:\users\admin\desktop\utn\tecnicatura programacion\labo 1\revenge\revenge\funciones.h
+
+1645830059 source:c:\users\admin\desktop\utn\tecnicatura programacion\labo 1\revenge\revenge\funciones.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+
+1645496632 c:\users\admin\desktop\utn\tecnicatura programacion\labo 1\revenge\revenge\menu.h
+
+1645647194 source:c:\users\admin\desktop\utn\tecnicatura programacion\labo 1\revenge\revenge\menu.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+
+1645496485 c:\users\admin\desktop\utn\tecnicatura programacion\labo 1\revenge\revenge\jugadas.h
+
+1645475133 c:\users\admin\desktop\utn\tecnicatura programacion\labo 1\revenge\revenge\opciones.h
 
